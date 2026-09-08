@@ -1084,12 +1084,12 @@
       "sha256": "3f899616e5b8b6462d6bf3fcbc3a56be6b44a3bdc1730cf35cfc60abb67207a2"
     },
     {
-      "bytes": 9035,
+      "bytes": 9469,
       "layer": "web_channel",
       "mode": "0644",
       "owner": "harness",
       "path": "WEB_CONTEXT_BUNDLE.md",
-      "sha256": "6392294580958c5e0e1084cf2c60c4714220038e4e2bfe20e74b2c1affdf19b6"
+      "sha256": "bfff433c68f7f890073c8d61ebca85f4b458943478e7272850d551b8964b85fc"
     },
     {
       "bytes": 3270,
@@ -1468,12 +1468,12 @@
       "sha256": "08cfe86133ca8225b3909978735af132b1fc81c88612a0d22b51c0cc16b8e00c"
     },
     {
-      "bytes": 1557,
+      "bytes": 1921,
       "layer": "problem_instance",
       "mode": "0644",
       "owner": "problem",
       "path": "problem-library/records/canonical-problems.jsonl",
-      "sha256": "e30abb1cf2f0f5b39877b895a7480943550c727f7fe4b842769dc20966179541"
+      "sha256": "58734ea9c75f2d26a36f9d970a949644584e01f60839b7bfb6469863c8fd6430"
     },
     {
       "bytes": 3891,
@@ -1919,27 +1919,27 @@
   "harness_version": "1.2.4",
   "problem": {
     "admission": "preview_unadmitted",
-    "contract_sha256": "e64cd03254e03dd661eade23243c3c21793fc2d8bffa2d33c172cf8ed2e7f940",
+    "contract_sha256": "8f76eb70db6bf8fc1be7e51fde1ca34739dd76c9c06d784280af608f8d9216a4",
     "lifecycle": "draft",
-    "problem_id": "problem:template-placeholder"
+    "problem_id": "problem:rule30-3"
   },
   "profile": "web-research-full",
-  "repository": "vibemathing/vibe-mathing-problem-public-template",
+  "repository": "vibemathing/problem-rule30-3",
   "repository_identity": {
     "binding_state": "verified",
-    "database_id": 1358726712,
+    "database_id": 1361064029,
     "default_branch": "main",
-    "full_name": "vibemathing/vibe-mathing-problem-public-template",
-    "node_id": "R_kgDOUPyGOA",
+    "full_name": "vibemathing/problem-rule30-3",
+    "node_id": "R_kgDOUSAwXQ",
     "visibility": "public"
   },
   "schema_version": "1.1.0",
-  "snapshot_id": "harness-snapshot:template-placeholder",
+  "snapshot_id": "harness-snapshot:rule30-3",
   "source": {
     "commit": "fedd664f1ac16c5232eb05076b73f2bab566ed67",
     "repository": "reviewed-public-export",
     "source_manifest_sha256": "fedd664f1ac16c5232eb05076b73f2bab566ed672840e7f2af851c77253813b3",
     "worktree_dirty": false
   },
-  "tree_sha256": "4cd282256d411fe493a82ef0050b5463e57339f15bd7a7c829a6f5d2fa1d0c7e"
+  "tree_sha256": "b0ba963c03705506c2622e73bfa7cdc9d976f0c91e20fc5b61d1dcbc53950c6b"
 }
